@@ -145,20 +145,22 @@ export default function Home() {
       events: [
         {
           title: "P2P Networking Session",
-          description: "A 48-hour hackathon focused on developing AI solutions for healthcare challenges.",
+          description: "P2P Networking Session brought together members from different tech domains for a fun, interactive experience. Through engaging games and activities, students connected, shared ideas, and built a strong peer learning community.",
           images: [
-            "/images/Chapters/Rec/p2p/IMG_3272.webp",
-             "/images/Chapters/Rec/p2p/IMG_3191.webp",
-              "/images/Chapters/Rec/p2p/IMG_3196.webp",
-               "/images/Chapters/Rec/p2p/IMG_3232.webp",
-                "/images/Chapters/Rec/p2p/IMG_3242.webp",
-                 "/images/Chapters/Rec/p2p/IMG_3210.webp",
-                  "/images/Chapters/Rec/p2p/IMG_3234.webp",
-                   "/images/Chapters/Rec/p2p/IMG_2437.webp",
-                    "/images/Chapters/Rec/p2p/IMG_2439.webp",
-                     "/images/Chapters/Rec/p2p/IMG_2444.webp",
-                      "/images/Chapters/Rec/p2p/IMG_2445.webp",
-                       "/images/Chapters/Rec/p2p/IMG_2446.webp"
+            "/images/Chapters/Rec/p2p/IMG_2353.webp",
+             "/images/Chapters/Rec/p2p/IMG_2362.webp",
+              "/images/Chapters/Rec/p2p/IMG_2374.webp",
+               "/images/Chapters/Rec/p2p/IMG_2418.webp",
+                "/images/Chapters/Rec/p2p/IMG_2425.webp",
+                 "/images/Chapters/Rec/p2p/IMG_2429.webp",
+                  "/images/Chapters/Rec/p2p/IMG_3173.webp",
+                   "/images/Chapters/Rec/p2p/IMG_2431.webp",
+                    "/images/Chapters/Rec/p2p/IMG_3180.webp",
+                     "/images/Chapters/Rec/p2p/IMG_3182.webp",
+                      "/images/Chapters/Rec/p2p/IMG_3232.webp",
+                       "/images/Chapters/Rec/p2p/IMG_3242.webp",
+                       "/images/Chapters/Rec/p2p/IMG_3271.webp",
+                       "/images/Chapters/Rec/p2p/IMG_3276.webp"
           
           ],
         },
