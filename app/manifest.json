@@ -1,0 +1,21 @@
+{
+  "name": "TechSociety",
+  "short_name": "TechSociety",
+  "description": "A community of tech enthusiasts pushing the boundaries of innovation and creativity",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#000000",
+  "theme_color": "#a855f7",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
